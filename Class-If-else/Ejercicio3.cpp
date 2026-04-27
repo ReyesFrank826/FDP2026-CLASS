@@ -10,14 +10,15 @@ int main(){
 
     //verifica si el numero es igual a 0
     if(n==0){
-    cout << "enter a number: " << endl;
+    cout << "este numero es 0" << endl;
 
     }
-    //verifica si es negatio
+    //verifica si es negativo
     else if (n<0){
+    cout << "este numero es negativo" << endl;
 
     }else {
-
+    cout << "este numero es positivo" << endl;
     }
     
     return 0;

@@ -5,7 +5,7 @@ int main(){
     
     float water;
     cout << "Bienvenido, quieres saber que tal esta la temperatura de tu agua?" << endl << endl;
-    cout << "Ingrese un grado celcius de su agua: " << endl;
+    cout << "Ingrese los grados celcius de su agua: " << endl;
     cin >> water;
 
     if(water<=25){
