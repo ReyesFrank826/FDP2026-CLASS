@@ -10,11 +10,11 @@ int main(){
 
     if(water<=25){
     cout << "el agua esta fria" << endl;
-
     }
-    else if (water >=26 && water <= 45){
+    else if (water >=26 && water <= 38){
     cout << "el agua esta templada" << endl;
-    }else {
+    }
+    else {
     cout << "el agua esta caliente" << endl;
     }
     
